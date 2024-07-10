@@ -1,2 +1,3 @@
 This is my practice to learn GitHub
 I am learing new language
+Hi i am updating this  file to check fetch command
