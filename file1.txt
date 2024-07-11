@@ -1,3 +1,7 @@
 This is my practice to learn GitHub
 I am learing new language
+
 new line of data
+
+Hi i am updating this  file to check fetch command
+
